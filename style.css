@@ -185,7 +185,7 @@ p {
     margin: 20px auto;
 }
 
-/* Responsive Adjustments */
+/* Responsive */
 @media only screen and (max-width: 850px) {
     .menu-btn {
         display: block;
@@ -230,9 +230,6 @@ p {
         max-width: 90%;
     }
 
-    /* Nosotros */
-    .nosotros-content {
-        width: 100%;
     }
 
     .portafolio .col {
