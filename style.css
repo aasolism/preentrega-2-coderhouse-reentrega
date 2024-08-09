@@ -249,10 +249,7 @@ p {
         padding: 10px;
     }
 
-    /* nosotros Section Responsive */
-    .nosotros {
-        height: 50vh;
-    }
+ 
 }
 
 /* Animaciones */
@@ -275,7 +272,7 @@ li:hover {
     cursor: pointer;
 }
 
-/* Responsive adjustments for Servicios and Portafolio */
+/* Responsive */
 @media only screen and (max-width: 1200px) {
     .servicios-grid {
         grid-template-columns: repeat(2, 1fr);
