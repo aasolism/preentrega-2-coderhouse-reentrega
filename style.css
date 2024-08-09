@@ -228,13 +228,16 @@ p {
         height: auto;
     }
 
+    .navbar-collapse {
+        background: #ffffff;
+    }
+
     .nav-links {
         flex-direction: column;
         width: 100%;
         height: 100vh;
         justify-content: center;
         background: #ffffff;
-        margin-top: -900px;
         transition: all 0.5s ease;
     }
 
@@ -337,6 +340,11 @@ footer.footer {
   border: 0;
   width: 100%;
   height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
   position: absolute;
   top: 0;
   left: 0;
